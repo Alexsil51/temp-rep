@@ -17,8 +17,9 @@ git add .
 git commit -m 'Initial'
 git push origin master
 git status
+git log --oneline
 
-teste final
+
 
 para usar o git após fechar o console:
 eval "$(ssh-agent -s)"
