@@ -19,3 +19,8 @@ git push origin master
 git status
 
 teste final
+
+para usar o git após fechar o console:
+eval "$(ssh-agent -s)"
+ssh-add /c/Users/Administrador/.ssh/id_rsa
+
