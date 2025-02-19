@@ -13,6 +13,8 @@ git init
 git config --global user.name "alxsil51"
 git config --global user.email "alexsil51@yahoo.com.br"
 git remote add origin git@github.com:Alexsil51/temp-rep.git
+
+Editei
 git add .
 git commit -m 'Initial'
 git push origin master
